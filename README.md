@@ -1,0 +1,2 @@
+# Operating_Systems_C_processes_ipc_sync_semaphores_mutual_exclusion_Assignment_3
+In this assignment, we will become familiar with process synchronization across different scenarios. We are required to implement the programs multiproc1 and multiproc2. multiproc1 takes one or more command-line arguments. The first argument is an integer number (rep). The remaining arguments are random strings. READ assignment.pdf for more.
